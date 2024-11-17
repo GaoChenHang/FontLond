@@ -39,9 +39,9 @@ FontLond 包含了多种风格和用途的字体，旨在满足不同场景下�
 | 阿里巴巴普惠体越南文 | 越南语字体|1|
 | 阿里巴巴普惠体日文 | 日语字体|1|
 | 阿里巴巴普惠体韩文 | 韩语字体|1|
-#### [阿里妈妈刀隶体](https://github.com/GaoChenHang/FontLond_1/tree/main/AlibabaDaoLiTi)
-#### [阿里妈妈方圆体](https://github.com/GaoChenHang/FontLond_1/tree/main/AlibabaFangYuanTi)
-#### [得意黑(smiley-sans)](https://github.com/GaoChenHang/FontLond_1/tree/main/smiley-sans)
+#### [阿里妈妈刀隶体](https://github.com/GaoChenHang/FontLond_1/tree/main/AlimamaDaoLiTi)
+#### [阿里妈妈方圆体](https://github.com/GaoChenHang/FontLond_1/tree/main/AlimamaFangYuanTiVF)
+#### [得意黑(smiley-sans)](https://github.com/GaoChenHang/FontLond_1/tree/main/smiley-sans) 开源
 多语言，维护勤的开源字体
 
 
@@ -49,13 +49,14 @@ FontLond 包含了多种风格和用途的字体，旨在满足不同场景下�
 
 ## 安装
 ### 下载字体
-1. 查询所需字体的仓库序号
+1. 查询所需字体的仓库序号。
 2. 访问对应的Github仓库地址，并找到所需的字体版本。
 `http://github.com/GaoChenHang/FontLond_{仓库序号}/tree/main/字体名(系列名)`
 3. 选择你需要的字体版本并下载。
 4. 解压下载的文件，并将字体文件安装到你的系统中。
 
-
+### 打包下载 
+[仓库1](https://github.com/GaoChenHang/FontLond_1/releases/tag/v1.0)
 ### 使用方法
 安装完成后，你可以在任何需要的地方使用这些字体。对于网页开发，可以通过 CSS 来指定字体：
 ```Css
