@@ -1,4 +1,4 @@
-# 字体库 - [FontLond]
+# 字池 - [FontLond]
 
 [![GitHub license](https://img.shields.io/badge/listense-MIT-3e8da8)](https://github.com/GaoChenHang/FontLond/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/GaoChenHang/FontLond?style=social)](https://github.com/GaoChenHang/FontLond/stargazers)
@@ -24,7 +24,7 @@
 FontLond 包含了多种风格和用途的字体，旨在满足不同场景下的需求。从经典的印刷字体到现代的数字字体，我们精心挑选并维护着每一个字体文件，确保它们在各种应用中都能表现出色。
 
 仓库包含多个子仓库 仓库均链接均为`https://github.com/GaoChenHang/FontLond_{仓库序号}`
-开源协议均为 [MIT](./LICENSE)
+
 
 ## 包含字体
 ### 阿里巴巴字体系列 可商用
@@ -39,10 +39,15 @@ FontLond 包含了多种风格和用途的字体，旨在满足不同场景下�
 | 阿里巴巴普惠体越南文 | 越南语字体|1|
 | 阿里巴巴普惠体日文 | 日语字体|1|
 | 阿里巴巴普惠体韩文 | 韩语字体|1|
-#### [阿里妈妈刀隶体](https://github.com/GaoChenHang/FontLond_1/tree/main/AlimamaDaoLiTi)
-#### [阿里妈妈方圆体](https://github.com/GaoChenHang/FontLond_1/tree/main/AlimamaFangYuanTiVF)
-#### [得意黑(smiley-sans)](https://github.com/GaoChenHang/FontLond_1/tree/main/smiley-sans) 开源
+#### [阿里妈妈刀隶体](https://github.com/GaoChenHang/FontLond_1/tree/main/AlibabaDaoLiTi)
+#### [阿里妈妈方圆体](https://github.com/GaoChenHang/FontLond_1/tree/main/AlibabaFangYuanTi)
+### [得意黑(smiley-sans)](https://github.com/GaoChenHang/FontLond_1/tree/main/smiley-sans) 开源
 多语言，维护勤的开源字体
+### [鸿蒙字体(HarmonyOS Sans)](https://github.com/GaoChenHang/FontLond_3/tree/main/HarmonyOS%20Sans)
+- 配套鸿蒙系统Ui
+- 含8字重
+### [小米字体(MiSans)](https://github.com/GaoChenHang/FontLond_3/tree/main/MiSans)
+- 配套小米澎湃系统Ui
 
 
 
@@ -73,11 +78,12 @@ body {
 ## 贡献
 我们非常欢迎任何形式的贡献！无论是报告错误、提出功能建议还是直接提交代码修改，都可以帮助我们改进 FontLond。请阅读我们的 贡献指南 获取更多细节。
 ## 许可证
-FontLond 采用 MIT License 许可证。详情请参阅 LICENSE 文件。
+FontLond仓库的相关简介（非引用部分）采用 MIT License 许可证。
+具体字体使用限制，详情请参阅 LICENSE 文件。
 
 ## 联系方式
 如果你认为我们的仓库侵犯了你的权利，请联系我们。
-邮箱: gch1020_cn@qq.com
+邮箱: 3992412947@qq.com
 社区: https://github.com/GaoChenHang
 Gitee: https://gitee.com/notease
 

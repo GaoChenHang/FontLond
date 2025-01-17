@@ -1,60 +1,64 @@
-# Font Library - [FontLond]
+# FontLond
 
 [![GitHub license](https://img.shields.io/badge/listense-MIT-3e8da8)](https://github.com/GaoChenHang/FontLond/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/GaoChenHang/FontLond?style=social)](https://github.com/GaoChenHang/FontLond/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/GaoChenHang/FontLond?style=social)](https://github.com/GaoChenHang/FontLond/network/members)
 
-[![en](https://img.shields.io/badge/language-en-3ea87a)](#)
-[![chinese](https://img.shields.io/badge/language-chinses-ff0000)](https://github.com/GaoChenHang/FontLond)
+[![en](https://img.shields.io/badge/language-en-3ea87a)](./translation/README-en.md)
+[![en](https://img.shields.io/badge/language-chinses-ff0000)](#字体库)
 
-Welcome to FontLond, an open-source project dedicated to providing high-quality fonts. Our goal is to offer a free and user-friendly set of font resources for designers, developers, and other creative professionals.
+Welcome to FontLond, an open-source project dedicated to providing high-quality fonts. Our goal is to offer a set of free and easy-to-use font resources for designers, developers, and other creative professionals.
 
 ## Table of Contents
-<span style="color: #4CAF50">📝</span> [Introduction](#introduction)
-<span style="color: #F44336">📦</span> [Included Fonts](#included-fonts)
-<span style="color: #2196F3">💾</span> [Installation](#installation)
-<span style="color: #FF9800">🛠️</span> [Usage](#usage)
-<span style="color: #9C27B0">🤝</span> [Contribution](#contribution)
-<span style="color: #E91E63">📄</span> [License](#license)
-<span style="color: #00BCD4">📧</span> [Contact](#contact)
+<span style="color: #4CAF50">📝</span> [Introduction](#Introduction)
+<span style="color: #F44336">📦</span> [Included Fonts](#Included-Fonts)
+<span style="color: #2196F3">💾</span> [Installation](#Installation)
+<span style="color: #FF9800">🛠️</span> [Usage](#Usage)
+<span style="color: #9C27B0">🤝</span> [Contributing](#Contributing)
+<span style="color: #E91E63">📄</span> [License](#License)
+<span style="color: #00BCD4">📧</span> [Contact](#Contact)
 
 ## Introduction
-FontLond includes a wide range of fonts in various styles for different purposes, meeting diverse needs. From classic print fonts to modern digital fonts, each font file is carefully curated and maintained to ensure optimal performance in various applications.
+FontLond includes a variety of fonts for different styles and purposes, aiming to meet the needs of various scenarios. From classic print fonts to modern digital fonts, we carefully select and maintain each font file to ensure they perform well in various applications.
 
-The repository includes multiple sub-repositories, each accessible at `https://github.com/GaoChenHang/FontLond_{repo_number}`, and all licensed under [MIT](./LICENSE).
-
+The repository contains multiple sub-repositories, all linked as `https://github.com/GaoChenHang/FontLond_{repository_number}`. 
 ## Included Fonts
-### Alibaba Font Series (Commercial Use Permitted)
+### Alibaba Font Series (Commercial Use)
 #### [Alibaba PuHuiTi Series](https://github.com/GaoChenHang/FontLond_1/tree/main/AlibabaPuHuiTi)
-| Font Name           | Description                        | Repo Number |
-|---------------------|------------------------------------|-------------|
-| Alibaba PuHuiTi 3.0 | Simplified Chinese font            | 1           |
-| Alibaba PuHuiTi TC  | Traditional Chinese (Taiwan) font  | 1           |
-| Alibaba PuHuiTi HK  | Traditional Chinese (Hong Kong) font | 1         |
-| Alibaba Sans        | Multilingual font                  | 1           |
-| Alibaba PuHuiTi Thai| Thai font                          | 1           |
-| Alibaba PuHuiTi Vietnamese | Vietnamese font            | 1           |
-| Alibaba PuHuiTi Japanese | Japanese font                | 1           |
-| Alibaba PuHuiTi Korean | Korean font                    | 1           |
+| Font Name  |   Description  |Repository Number |
+| ----------- |  ----------- |----|
+| Alibaba PuHuiTi 3.0 | Simplified Chinese Font|1|
+| Alibaba PuHuiTi TC | Traditional Chinese (Taiwan) Font|1|
+| Alibaba PuHuiTi HK | Traditional Chinese (Hong Kong) Font|1|
+| Alibaba Sans | Multilingual Font|1|
+| Alibaba PuHuiTi Thai | Thai Font|1|
+| Alibaba PuHuiTi Vietnamese | Vietnamese Font|1|
+| Alibaba PuHuiTi Japanese | Japanese Font|1|
+| Alibaba PuHuiTi Korean | Korean Font|1|
 #### [Alibaba DaoLiTi](https://github.com/GaoChenHang/FontLond_1/tree/main/AlibabaDaoLiTi)
 #### [Alibaba FangYuanTi](https://github.com/GaoChenHang/FontLond_1/tree/main/AlibabaFangYuanTi)
-#### [Smiley Sans](https://github.com/GaoChenHang/FontLond_1/tree/main/smiley-sans) - Open Source
-A well-maintained multilingual open-source font.
+### [Smiley Sans](https://github.com/GaoChenHang/FontLond_1/tree/main/smiley-sans) (Open Source)
+Multilingual, actively maintained open-source font.
+### [HarmonyOS Sans](https://github.com/GaoChenHang/FontLond_3/tree/main/HarmonyOS%20Sans)
+- Designed for HarmonyOS UI
+- Includes 8 weights
+### [MiSans](https://github.com/GaoChenHang/FontLond_3/tree/main/MiSans)
+- Designed for Xiaomi Surge UI
 
 ## Installation
 ### Download Fonts
-1. Identify the repository number for the desired font.
-2. Visit the corresponding GitHub repository and locate the desired font version at `http://github.com/GaoChenHang/FontLond_{repo_number}/tree/main/font-name`.
-3. Choose and download the font version you need.
+1. Find the repository number of the required font.
+2. Visit the corresponding GitHub repository and locate the desired font version.
+`http://github.com/GaoChenHang/FontLond_{repository_number}/tree/main/font_name(series_name)`
+3. Select the font version you need and download it.
 4. Unzip the downloaded file and install the font file on your system.
 
-### Bulk Download
+### Download Packages
 [Repository 1](https://github.com/GaoChenHang/FontLond_1/releases/tag/v1.0)
 
 ### Usage
-Once installed, you can use these fonts anywhere needed. For web development, specify the font in CSS:
-
-```css
+After installation, you can use these fonts anywhere you need. For web development, you can specify the font using CSS:
+```Css
 @font-face {
     font-family: 'MyFont';
     src: url('path/to/font-file.ttf') format('truetype');
@@ -65,14 +69,16 @@ body {
     font-family: 'MyFont', sans-serif;
 }
 ```
-### Contribution
-We welcome contributions of all kinds! Whether it's reporting bugs, suggesting features, or submitting code modifications, you can help improve FontLond. Please refer to our Contribution Guide for more details.
 
-### License
-FontLond is licensed under the MIT License. See the LICENSE file for details.
+## Contributing
+We welcome any form of contribution! Whether it's reporting bugs, suggesting features, or directly submitting code changes, you can help us improve FontLond. Please read our contribution guide for more details.
 
-### Contact
-If you believe our repository infringes on your rights, please contact us. Email: gch1020_cn@outlook.com
+## License
+The content of the FontLond repository (non-referenced parts) is licensed under the MIT License. For specific font usage restrictions, please refer to the LICENSE file.
+
+## Contact
+If you believe our repository infringes your rights, please contact us.
+Email: 3992412947@qq.com
 Community: https://github.com/GaoChenHang
 Gitee: https://gitee.com/notease
 
